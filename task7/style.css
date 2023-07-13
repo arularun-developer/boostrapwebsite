@@ -1,0 +1,30 @@
+.container-fluid{
+     width:100vw;
+     background-color:black;
+    font-size:20px;
+    height: 300px;
+ 
+}
+#content{
+    font-size:60px ;
+  
+}
+
+#images{
+    width:1000px;
+   height: 600px;
+}
+#components{
+    position: relative;
+    left: 400px;
+}
+#sizing{
+    width:100vw;
+    height:60px !important ;
+    background-color: rgb(15, 14, 14) !important;
+   
+}
+footer{
+    width:100vw;
+    color:white;
+}
